@@ -1,4 +1,4 @@
-git// Express backend for the DEV@Deakin newsletter sign-up feature.
+// Express backend for the DEV@Deakin newsletter sign-up feature.
 // This is the P2 backend carried over, updated to talk to a separate
 // React frontend (different port), so it now needs CORS enabled.
 require('dotenv').config();
